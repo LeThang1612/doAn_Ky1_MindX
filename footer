@@ -1,0 +1,248 @@
+<div id="slideshow"
+     style="background: url('http://d1j8r0kxyu9tj8.cloudfront.net/files/1667805517gdynbhEgR9CTDc6.png'); background-size:100% 100%;"
+     class="d-flex align-items-center">
+    <p class="d-none d-md-block" id="slideshow-text" style="color: #F7DC13;font-size: 160px;white-space: nowrap;position: absolute; z-index: 99; right: 20vw;
+font-weight:700">GET MOVING</p>
+    <div class="px-0 py-2 w-100" style="width: 250vw;position: relative; height:671px; overflow: hidden;">
+        <div id="moving-img-row-1" class="mt-4 px-0"
+             style="white-space: nowrap;position: absolute; left : - 250px!important;">
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806493acE2KvD62rIloFW.png"
+                     alt="First slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806527W4y2MRdNG4CT8ui.png"
+                     alt="Second slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806548WEqid20VGDgYwK6.png"
+                     alt="Third slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806588NDih9dACZ6W0n20.png"
+                     alt="Fourth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806607f9wMkyRyJyrQPS1.png"
+                     alt="Fifth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806627erOnvg7OfMecVma.png"
+                     alt="Sixth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806493acE2KvD62rIloFW.png"
+                     alt="First slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806527W4y2MRdNG4CT8ui.png"
+                     alt="Second slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806548WEqid20VGDgYwK6.png"
+                     alt="Third slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806588NDih9dACZ6W0n20.png"
+                     alt="Fourth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806607f9wMkyRyJyrQPS1.png"
+                     alt="Fifth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806627erOnvg7OfMecVma.png"
+                     alt="Sixth slide">
+            </div>
+        </div>
+
+        <div id="moving-img-row-2" class=" mt-4 px-0"
+             style="white-space: nowrap;position: absolute; top: 212px">
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806773HCU3nqtRJBiNUWw.png"
+                     alt="First slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806792EYvm4BJbJWWzhW6.png"
+                     alt="Second slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/16678068103lJQ4LKoAkyCjsX.png"
+                     alt="Third slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806825hdjmr3AYf6qoQXN.png"
+                     alt="Fourth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/16678068450KcRf1my7TzUwyW.png"
+                     alt="Fifth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806493acE2KvD62rIloFW.png"
+                     alt="Sixth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806773HCU3nqtRJBiNUWw.png"
+                     alt="First slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806792EYvm4BJbJWWzhW6.png"
+                     alt="Second slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/16678068103lJQ4LKoAkyCjsX.png"
+                     alt="Third slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806825hdjmr3AYf6qoQXN.png"
+                     alt="Fourth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/16678068450KcRf1my7TzUwyW.png"
+                     alt="Fifth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806493acE2KvD62rIloFW.png"
+                     alt="Sixth slide">
+            </div>
+
+        </div>
+        <div id="moving-img-row-3" class="mb-4 px-0"
+             style="white-space: nowrap;position: absolute; top: 440px">
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806944gGKQbgGjc6rjXuU.png"
+                     alt="First slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806966aqUnsF3kLtuRvoW.png"
+                     alt="Second slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667807000IngOJeYkGacwVql.png"
+                     alt="Third slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806983EX54YZlKq00Qqhy.png"
+                     alt="Fourth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667807036StYPzaprqhBJFkX.png"
+                     alt="Fifth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806548WEqid20VGDgYwK6.png"
+                     alt="Sixth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806944gGKQbgGjc6rjXuU.png"
+                     alt="First slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806966aqUnsF3kLtuRvoW.png"
+                     alt="Second slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667807000IngOJeYkGacwVql.png"
+                     alt="Third slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667806983EX54YZlKq00Qqhy.png"
+                     alt="Fourth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/1667807036StYPzaprqhBJFkX.png"
+                     alt="Fifth slide">
+            </div>
+            <div class="d-inline-block px-0 mx-0">
+                <img class="img-fluid"
+                     src="http://d1j8r0kxyu9tj8.cloudfront.net/files/16678068103lJQ4LKoAkyCjsX.png"
+                     alt="Sixth slide">
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer id="myFooter" class="align-content-center">
+    <div class="container">
+        <div class="row py-5">
+            <div class="col-12 col-md-1 mt-5">
+                <img alt="GmStock Logo" style="height:100px;width:100px" src="https://d1j8r0kxyu9tj8.cloudfront.net/files/1668626847ltkE6VV9T97CuuR.png">
+            </div>
+            <div class="col-12 col-md-3 offset-md-1 mt-5">
+                <div class="title text-yellow"><b>Menu</b></div>
+                <br>
+                <ul>
+                    <li><a href="#">Về chúng tôi</a></li>
+                    <li><a href="/du-an">Dự án</a></li>
+                    <li><a href="/tong-quan">Dịch vụ</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="/lien-he">Liên hệ</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-md-4 mt-5">
+                <div class="title text-yellow"><b>Dịch vụ</b></div>
+                <br>
+                <ul>
+                    <li><a href="/tai-khoan-cua-toi">Tài khoản của tôi</a></li>
+                    <li><a href="/xem-gio-hang">xem giỏ hàng</a></li>
+                    <li><a href="/mat-hang-yeu-thich">mặt hàng yêu thích</a></li>
+                    <li><a href="/don-hang-cua-toi">đơn hàng của tôi</a></li>
+                    <li><a href="/giup-do">giúp đỡ</a></li>
+               </ul>
+            </div>
+            <div class="col-12 col-md-3 mt-5">
+                <div class="title text-yellow"><b>Kết nối</b></div>
+                <br>
+                <div class="d-flex flex-column">
+                    <div class="d-flex">
+                        <a href="https://www.facebook.com" class="text-white" target="_blank"><i class="fab fa-facebook-square mr-3 fa-2x"></i></a>
+                        <a href="https://www.facebook.com/messages/t" class="text-white" target="_blank"><i class="fab fa-facebook-messenger mr-3 fa-2x"></i></a>
+                        <a href="https://www.instagram.com" class="text-white" target="_blank"><i class="fab fa-instagram mr-3 fa-2x"></i></a>
+                        <a href="https://www.tiktok.com" class="text-white" target="_blank"><i class="fab fa-tiktok mr-3 fa-2x"></i></a>
+                        
+                    </div>
+                    <a href="mailto:lengocquocthang@gmail.com">Email: <b>lengocquocthang@gmail.com</b></a>
+                    <a href="tel:+849xxxxxxxx">Hotline: <b>(+84) 9xxxxxxxxx</b></a>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</footer>
