@@ -1,0 +1,48 @@
+<footer id="myFooter" class="align-content-center">
+    <div class="container">
+        <div class="row py-5">
+            <div class="col-12 col-md-1 mt-5">
+                <img alt="GmStock Logo" style="height:100px;width:100px" src="https://d1j8r0kxyu9tj8.cloudfront.net/files/1668626847ltkE6VV9T97CuuR.png">
+            </div>
+            <div class="col-12 col-md-3 offset-md-1 mt-5">
+                <div class="title text-yellow"><b>Menu</b></div>
+                <br>
+                <ul>
+                <li><a href="/dien-thoai">Điện thoại</a></li>
+                <li><a href="/tai-nghe">Tai nghe</a></li>
+                <li><a href="/laptop-va-may-tinh-bang">Laptop và máy tính bảng</a></li>
+                <li><a href="/man-hinh">Màn hình</a></li>
+                <li><a href="/may-in">Máy in</a></li>
+                <li><a href="/phu-kien">Phụ kiện</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-md-4 mt-5">
+                <div class="title text-yellow"><b>Chính sách bảo mật</b></div>
+                <br>
+                <ul>
+                    <li><a href="/chinh-sach-doi-tra">Chính sách đổi trả</a></li>
+                    <li><a href="/giao-hang">Xgiao hàng</a></li>
+                    <li><a href="/bao-hanh">bảo hành</a></li>
+                    <li><a href="/danh-gia-chat-luong-va-khieu-nai">Đánh giá chất lượngkhiếu nại</a></li>
+                    <li><a href="/mua-tra-gop">mua trả góp</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-md-3 mt-5">
+                <div class="title text-yellow"><b>Kết nối</b></div>
+                <br>
+                <div class="d-flex flex-column">
+                    <div class="d-flex">
+                        <a href="https://www.facebook.com/" class="text-white" target="_blank"><i class="fab fa-facebook-square mr-3 fa-2x"></i></a>
+                        <a href="https://www.facebook.com/messages/t/" class="text-white" target="_blank"><i class="fab fa-facebook-messenger mr-3 fa-2x"></i></a>
+                        <a href="https://www.instagram.com/" class="text-white" target="_blank"><i class="fab fa-instagram mr-3 fa-2x"></i></a>
+                        <a href="https://www.tiktok.com/" class="text-white" target="_blank"><i class="fab fa-tiktok mr-3 fa-2x"></i></a>
+                    </div>
+                    <a href="mailto:lengocquocthang@gmail.com">Email: <b>lengocquocthang@gmail.com</b></a>
+                    <a href="tel:+84931098841">Hotline: <b>(+84) 931098841</b></a>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</footer>
